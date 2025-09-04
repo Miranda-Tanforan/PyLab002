@@ -59,10 +59,20 @@ print(f"""
     age **2 = {power}
     """)
 
+#4.0
+fahrenheit = input('Enter degrees Fahrenheit: ')
+fahrenheit_in = fahrenheit
+## input fuctions makes whatever the input a string, even if it is a number
+celcius = round(((float(fahrenheit) - 32) * 5/9), 1)
+celcius_str = str(celcius)
+degree = str(chr(176))
+
+print('The input of ' + fahrenheit_in + degree + 'F,  yields ' + celcius_str +degree +'C')
 
 
-
-
+#input practice
+#x = input('enter your name:')
+#print('hello,' + x)
 
 
 
