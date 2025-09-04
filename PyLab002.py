@@ -55,7 +55,7 @@ print(f"""
     height - 4 = {difference}
     age * height = {product}
     height / 2 = {quotient}
-    age // 3 = {remainder}
+    age % 3 = {remainder}
     age **2 = {power}
     """)
 
