@@ -70,6 +70,7 @@ degree = str(chr(176))
 print('The input of ' + fahrenheit_in + degree + 'F,  yields ' + celcius_str +degree +'C')
 
 
+
 #input practice
 #x = input('enter your name:')
 #print('hello,' + x)
