@@ -58,3 +58,11 @@ print(f"""
     age // 3 = {remainder}
     age **2 = {power}
     """)
+
+
+
+
+
+
+
+
