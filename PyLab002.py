@@ -48,7 +48,7 @@ sum = age + 5
 difference = height - 4
 product = age * height
 quotient = height / 2
-remainder = age // 3
+remainder = age % 3
 power = age ** 2
 print(f"""
     age + 5 = {sum} 
